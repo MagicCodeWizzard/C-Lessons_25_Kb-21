@@ -5,3 +5,4 @@ set(CXX_STANDARD_REQUIRED ON)
 set(CXX_EXTENSIONS OFF)
 
 add_subdirectory(4-code-file)
+add_subdirectory(5-dyn-memory)
