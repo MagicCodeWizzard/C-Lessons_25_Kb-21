@@ -8,4 +8,4 @@ add_subdirectory(4-code-file)
 add_subdirectory(5-dyn-memory)
 add_subdirectory(6-data-structures)
 add_subdirectory(7-list)
-
+add_subdirectory(8-array-list)
